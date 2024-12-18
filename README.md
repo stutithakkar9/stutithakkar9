@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Stuti Thakkar
 
 💻 **Software QA Professional | 5+ Years of Experience in Manual Testing**  
+
 🔍 Dedicated to ensuring high-quality software delivery through meticulous testing and attention to detail.
 
 ---
