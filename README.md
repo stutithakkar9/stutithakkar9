@@ -4,7 +4,6 @@
 
 🔍 Dedicated to ensuring high-quality software delivery through meticulous testing and attention to detail.
 
----
 
 ## 📝 About Me
 
@@ -13,7 +12,6 @@
 - 🌍 Based in **India**  
 - 🎯 Passionate about delivering top-notch software quality and collaborating with cross-functional teams.
 
----
 
 - **Testing Expertise**:  
   - Manual Testing (Functional Testing, User Acceptance Testing, Regression Testing, Usability Testing, Smoke Testing, Sanity Testing, Exploratory Testing, Adhoc Testing, Gorilla Testing, Black Box Testing, White Box Testing, Positive and Negative Testing)  
@@ -36,7 +34,7 @@
   - SQL Queries and Database Management  
 
 - **Other Skills**:  
-  - Test Planning, Test Scenarios, Test Design, Test Execution, Defect Tracking, and Documentation ---
+  - Test Planning, Test Scenarios, Test Design, Test Execution, Defect Tracking, and Documentation
 
 ## 🌟 Highlights
 
@@ -44,7 +42,6 @@
 - 📂 Created comprehensive test plans, executed detailed test cases, and documented results efficiently.  
 - 🚀 Proactively identified critical issues during early stages, reducing project risks and delays.  
 
----
 
 ## 📫 Let's Connect
 
@@ -52,12 +49,10 @@
 - 📞 Phone/WhatsApp: +91-8866690268
 - 💼 LinkedIn: [linkedin.com/in/erstutithakkar](https://linkedin.com/in/erstutithakkar)  
 
----
 
 ### 💡 Fun Fact
 
 I believe in **"Testing is not just finding bugs, it’s about building confidence in the product."**
 
----
 
 ⭐️ **Feel free to explore my repositories and connect with me to discuss your next collaboration or project!**
